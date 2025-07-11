@@ -37,8 +37,11 @@ button:hover{
 
 header{
     background-image:url(../Assets/Hero-bg.png) ;
-    width: 1440px;
-    height: 698px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
     
 }
 .header-items{
