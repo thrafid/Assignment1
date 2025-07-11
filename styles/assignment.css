@@ -80,7 +80,11 @@ header{
 }
 .action-left > div{
     /* padding: 20px; */
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+}
+.act-btn{
+    font-size: 16px;
+    font-weight: bold;
 }
 .mini-pic{
     border-radius: 20px;
