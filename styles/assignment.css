@@ -14,7 +14,13 @@
 }
 .logo{
     color: #4E47FF;
+    font-size: 34px;
     font-weight:900;
+}
+.hdbtn{
+    margin-top: 30px;
+    padding: 15px;
+    font-weight: 600;
 }
 .button-design{
     background-color: #4E47FF;
@@ -44,6 +50,13 @@ header{
     margin-top: 80px;
     text-align: center;
     margin-bottom: 70px;
+}
+.darkui{
+    font-size: 65px;
+    font-weight: bold;
+}
+.stayf{
+    padding: 10px 20px;
 }
 
 .section-title{
@@ -95,4 +108,40 @@ header{
     display: flex;
    padding: 40px;
    gap: 160px;
+}
+
+
+.get-touch{
+    margin: 60px;
+    display: flex;
+    gap: 500px;
+    background-color: rgb(240, 234, 234);
+}
+.section-title{
+    font-size: 97px;
+    font-weight: bold;
+}
+section input{
+    height: 20px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 90%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+section textarea{
+    height: 70px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 90%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+.form{
+    width: 100%;
+    display: block;
 }
